@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "160954100904",
+    "firebase_url": "https://shopymart-d6c28.firebaseio.com",
+    "project_id": "shopymart-d6c28",
+    "storage_bucket": "shopymart-d6c28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160954100904:android:eb210971e6d516a3ab269d",
+        "android_client_info": {
+          "package_name": "com.lakshanandroid.shopymart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160954100904-h93lht177n1qli130q03r1tumbl3htqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lakshanandroid.shopymart",
+            "certificate_hash": "64a5ce52dfc077ac0e928cfb3dc364eb8cad05c8"
+          }
+        },
+        {
+          "client_id": "160954100904-mhbca6c8g977vfnqqkuj16r9djhp4l97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMAhq9jBlqP6pk3Be1aFoDm0o93KuoUfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160954100904-mhbca6c8g977vfnqqkuj16r9djhp4l97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
